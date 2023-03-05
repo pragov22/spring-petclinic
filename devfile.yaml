@@ -5,7 +5,7 @@ projects:
   - name: spring-petclinic
     git:
       remotes:
-        origin: 'https://github.com/redhat-developer-demos/spring-petclinic.git'
+        origin: 'https://github.com/pragov22/spring-petclinic.git'
       checkoutFrom:
         revision: main
 
